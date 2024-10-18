@@ -1,4 +1,4 @@
-![캐릭터 선택](https://github.com/user-attachments/assets/8bec5972-77d7-4a7e-9251-633c6acd9152)# SRPG 게임
+# SRPG 게임
 
 ### 프로젝트 소개
 전략시뮬레이션의 유닛들을 RPG처럼 육성하는 기본적인 SRPG요소들을 가진 게임입니다.
