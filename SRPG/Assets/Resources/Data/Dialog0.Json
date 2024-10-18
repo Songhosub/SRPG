@@ -1,0 +1,10 @@
+﻿{
+	"dialog":
+	[
+		{"speakerIndex":0,"speakerName":"하루카","spritePath":"amami_haruka","speakerDialog":"다이얼로그 대사 01_01(하루카) "},
+		{"speakerIndex":0,"speakerName":"미키","spritePath":"hoshii_miki","speakerDialog":"다이얼로그 대사 01_02(미키) "},
+		{"speakerIndex":0,"speakerName":"치하야","spritePath":"kisaragi_chihaya","speakerDialog":"다이얼로그 대사 01_03(치하야) "},
+		{"speakerIndex":1,"speakerName":"몬스터","spritePath":"Wolfman","speakerDialog":"다이얼로그 대사 01_04(몬스터) "},
+		{"speakerIndex":0,"speakerName":"하루카","spritePath":"amami_haruka","speakerDialog":"다이얼로그 대사 01_05(하루카) "}
+	]
+}

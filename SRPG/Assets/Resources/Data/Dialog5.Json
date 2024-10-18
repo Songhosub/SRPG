@@ -1,0 +1,8 @@
+﻿{
+	"dialog":
+	[
+		{"speakerIndex":1,"speakerName":"리츠코","spritePath":"akizuki_ritsuko","speakerDialog":"시작 다이얼로그 대사 06_01(리츠코) "},
+		{"speakerIndex":0,"speakerName":"하루카","spritePath":"amami_haruka","speakerDialog":"시작 다이얼로그 대사 06_02(하루카) "},
+		{"speakerIndex":1,"speakerName":"히비키","spritePath":"ganaha_hibiki","speakerDialog":"시작 다이얼로그 대사 06_03(히비키) "}
+	]
+}

@@ -1,0 +1,8 @@
+﻿{
+	"dialog":
+	[
+		{"speakerIndex":0,"speakerName":"하루카","spritePath":"amami_haruka","speakerDialog":"다이얼로그 대사 02_01(하루카) "},
+		{"speakerIndex":1,"speakerName":"아즈사","spritePath":"miura_azusa","speakerDialog":"시작 다이얼로그 대사 02_02(아즈사) "},
+		{"speakerIndex":1,"speakerName":"타카네","spritePath":"shijo_takane","speakerDialog":"시작 다이얼로그 대사 02_03(타카네) "}
+	]
+}

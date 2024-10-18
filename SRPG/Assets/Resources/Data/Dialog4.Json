@@ -1,0 +1,8 @@
+﻿{
+	"dialog":
+	[
+		{"speakerIndex":1,"speakerName":"마코토","spritePath":"kikuchi_makoto","speakerDialog":"시작 다이얼로그 대사 05_01(마코토) "},
+		{"speakerIndex":1,"speakerName":"유키호","spritePath":"hagiwara_yukiho","speakerDialog":"시작 다이얼로그 대사 05_02(유키호) "},
+		{"speakerIndex":0,"speakerName":"하루카","spritePath":"amami_haruka","speakerDialog":"시작 다이얼로그 대사 05_03(하루카) "}
+	]
+}

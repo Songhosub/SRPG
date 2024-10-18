@@ -1,0 +1,8 @@
+﻿{
+	"dialog":
+	[
+		{"speakerIndex":0,"speakerName":"치하야","spritePath":"kisaragi_chihaya","speakerDialog":"시작 다이얼로그 대사 04_01(치하야) "},
+		{"speakerIndex":1,"speakerName":"이오리","spritePath":"minase_iori","speakerDialog":"시작 다이얼로그 대사 04_02(이오리) "},
+		{"speakerIndex":1,"speakerName":"야요이","spritePath":"takatsuki_yayoi","speakerDialog":"시작 다이얼로그 대사 04_03(야요이) "}
+	]
+}

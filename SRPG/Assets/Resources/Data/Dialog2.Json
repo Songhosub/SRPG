@@ -1,0 +1,8 @@
+﻿{
+	"dialog":
+	[
+		{"speakerIndex":0,"speakerName":"미키","spritePath":"hoshii_miki","speakerDialog":"다이얼로그 대사 03_01(미키) "},
+		{"speakerIndex":1,"speakerName":"아미","spritePath":"futami_ami","speakerDialog":"시작 다이얼로그 대사 03_02(아즈사) "},
+		{"speakerIndex":1,"speakerName":"마미","spritePath":"futami_mami","speakerDialog":"시작 다이얼로그 대사 03_03(타카네) "}
+	]
+}
