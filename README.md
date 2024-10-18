@@ -15,9 +15,9 @@
 ---
 ## 실습 코드
 ### Manager  
-- [Managers.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/Managers.cs)  
-- [DataManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/DataManager.cs)  
-- [UIManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/UIManager.cs)  
+- [Managers.cs](https://github.com/Songhosub/SRPG/blob/main/Srpg/Assets/Scripts/Managers/Managers.cs)  
+- [DataManager.cs](https://github.com/Songhosub/SRPG/blob/main/Srpg/Assets/Scripts/Managers/DataManager.cs)  
+- [UIManager.cs](https://github.com/Songhosub/SRPG/blob/main/Srpg/Assets/Scripts/Managers/UIManager.cs)  
 - [SoundManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/SoundManager.cs)  
 - [EffectManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/EffectManager.cs)  
 - [ResourceManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/ResourceManager.cs)  
