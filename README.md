@@ -15,31 +15,31 @@
 ---
 ## 실습 코드
 ### Manager  
-- [Managers.cs](https://github.com/Songhosub/SRPG/blob/main/Srpg/Assets/Scripts/Managers/Managers.cs)  
-- [DataManager.cs](https://github.com/Songhosub/SRPG/blob/main/Srpg/Assets/Scripts/Managers/DataManager.cs)  
-- [UIManager.cs](https://github.com/Songhosub/SRPG/blob/main/Srpg/Assets/Scripts/Managers/UIManager.cs)  
-- [SoundManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/SoundManager.cs)  
-- [EffectManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/EffectManager.cs)  
-- [ResourceManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/ResourceManager.cs)  
-- [SceneManagerEx.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Managers/SceneManagerEx.cs)  
+- [Managers.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Managers/Managers.cs)
+- [DataManager.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Managers/DataManager.cs)  
+- [UIManager.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Managers/UIManager.cs)  
+- [SoundManager.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Managers/SoundManager.cs)  
+- [EffectManager.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Managers/EffectManager.cs)  
+- [ResourceManager.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Managers/ResourceManager.cs)  
+- [SceneManagerEx.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Managers/SceneManagerEx.cs)  
 
 ### Character  
-- [Character.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Scenes/Battle/Character.cs)  
-- [Enemy.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Scenes/Battle/Enemy.cs)  
-- [Player.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Scenes/Battle/Player.cs)  
-- [Skill.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Scenes/Battle/Skill/Skill.cs)  
+- [Character.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Scenes/Battle/Character.cs)  
+- [Enemy.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Scenes/Battle/Enemy.cs)  
+- [Player.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Scenes/Battle/Player.cs)  
+- [Skill.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Scenes/Battle/Skill/Skill.cs)  
 
 ### Battle  
-- [MapManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Scenes/Battle/MapManager.cs)  
-- [TurnManager.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Scenes/Battle/TurnManager.cs)  
-- [Tile.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/Scenes/Battle/Tile.cs)  
+- [MapManager.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Scenes/Battle/MapManager.cs)  
+- [TurnManager.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Scenes/Battle/TurnManager.cs)  
+- [Tile.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/Scenes/Battle/Tile.cs)  
 
 ### UI  
-- [UIBase.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/UI/UIBase.cs)  
-- [UIEventHandler.cs](https://github.com/201710783/SRpg/blob/main/Srpg/Assets/Scripts/UI/UIEventHandler.cs)  
-- [Popup](https://github.com/201710783/SRpg/tree/main/Srpg/Assets/Scripts/UI/Popup)  
-- [Scene](https://github.com/201710783/SRpg/tree/main/Srpg/Assets/Scripts/UI/Scene)  
-- [SubItem](https://github.com/201710783/SRpg/tree/main/Srpg/Assets/Scripts/UI/SubItem)  
+- [UIBase.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/UI/UIBase.cs)  
+- [UIEventHandler.cs](https://github.com/Songhosub/SRPG/blob/main/SRPG/Assets/Scripts/UI/UIEventHandler.cs)  
+- [Popup](https://github.com/Songhosub/SRPG/tree/main/SRPG/Assets/Scripts/UI/Popup)  
+- [Scene](https://github.com/Songhosub/SRPG/tree/main/SRPG/Assets/Scripts/UI/Scene)  
+- [SubItem](https://github.com/Songhosub/SRPG/tree/main/SRPG/Assets/Scripts/UI/SubItem)  
 
 Etc  
 
